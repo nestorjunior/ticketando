@@ -1,0 +1,12 @@
+{
+  "name": "ticketando",
+  "version": "1.0.0",
+  "description": "API RESTful de Gerenciamento de Tickets de Suporte Técnico em Node.js",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Nestor Pereira",
+  "license": "ISC",
+  "type": "module"
+}
